@@ -1,1 +1,1 @@
-# techmgt_undergrad
+# テクノロジーマネジメント
